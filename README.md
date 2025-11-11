@@ -59,18 +59,84 @@ A sign-up form with input fields for “Name,” “Email,” and a “Submit”
 
 ---
 
-## 🛠️ Common Tools for Wireframing
-- Figma  
-- Adobe XD  
-- Sketch  
-- Balsamiq  
-- Miro  
+## 🧮 Types of Wireframes
+
+Wireframes come in different **levels of fidelity**, meaning how detailed or realistic they are. The main types are **low-fidelity** and **high-fidelity** wireframes.
+
+### 1. ✏️ Low-Fidelity Wireframes
+- **Description:**  
+  Rough sketches or basic digital layouts that focus on structure, flow, and placement of elements — without styling or detailed content.
+- **Used When:**  
+  In the early stages of design to brainstorm ideas and test layout concepts.
+- **Features:**  
+  - Simple boxes, lines, and placeholders.  
+  - Minimal text or visual details.  
+  - Often done on paper or using tools like Balsamiq or Miro.
+- **Purpose:**  
+  Helps teams align on ideas quickly before investing time in high-detail visuals.
+
+**Example:**  
+A hand-drawn sketch showing a webpage layout with labeled boxes like “Header,” “Image,” and “Text Section.”
+
+---
+
+### 2. 💻 High-Fidelity Wireframes
+- **Description:**  
+  Detailed wireframes that closely resemble the final design, showing precise spacing, fonts, and sometimes color.
+- **Used When:**  
+  In the later stages of the design process, after the structure and flow are approved.
+- **Features:**  
+  - More realistic visual hierarchy.  
+  - Inclusion of actual text, icons, or button labels.  
+  - Built using tools like Figma, Adobe XD, or Sketch.
+- **Purpose:**  
+  Provides a near-final preview of the user interface before development begins.
+
+**Example:**  
+A digital wireframe of a login screen with accurate alignment, button placements, and real form labels.
+
+---
+
+## 🧠 What Type of Wireframe Is This?
+For this project, the wireframe presented here is a **Low-Fidelity Wireframe**.
+
+- It focuses on the **basic structure and layout** rather than color or typography.  
+- It serves to **communicate design ideas quickly** and get feedback before moving into detailed, high-fidelity prototypes.  
+- The emphasis is on **functionality, positioning, and flow**, not aesthetics.
+
+---
+
+## 🧰 Popular Wireframing Tools
+
+Wireframing can be done using a variety of tools depending on your workflow, level of detail, and collaboration needs. Below are some of the most popular options:
+
+### ✨ 1. Figma (Recommended)
+**Overview:**  
+Figma is a cloud-based design and prototyping tool that allows multiple users to collaborate in real-time. It’s one of the most popular tools for both **wireframing** and **UI/UX design**.
+
+**Key Features:**
+- Real-time collaboration — perfect for teams.  
+- Easy drag-and-drop interface for creating wireframes and prototypes.  
+- Offers reusable components and design systems.  
+- Works entirely in the browser, so no installation required.  
+- Supports both low-fidelity and high-fidelity designs.
+
+**Why It’s Useful for Wireframing:**  
+Figma’s simplicity and powerful features make it ideal for designers to create, share, and refine wireframes quickly. You can start with basic shapes and gradually evolve into full high-fidelity mockups without switching tools.
+
+**Other Common Tools:**
+- **Adobe XD:** Great for prototyping and integrating with Adobe Creative Cloud.  
+- **Sketch:** A macOS-based design tool widely used for digital interface design.  
+- **Balsamiq:** Focuses on quick, low-fidelity wireframes with a hand-drawn style.  
+- **Miro:** Excellent for collaborative brainstorming and early-stage wireframing.  
+- **Lucidchart:** Useful for flowcharts, diagrams, and basic wireframe structures.
 
 ---
 
 ## 💡 Summary
 Wireframing is an essential first step in UI/UX design. It bridges the gap between ideas and actual development, ensuring that the final product is both user-centered and well-structured.
 
-Each element — **layout, navigation, content, and functionality** — plays a vital role in creating a smooth and intuitive user experience.
+Each element — **layout, navigation, content, and functionality** — plays a vital role in creating a smooth and intuitive user experience.  
+Tools like **Figma** make it easier to visualize and collaborate, turning ideas into interactive designs efficiently.
 
 ---
